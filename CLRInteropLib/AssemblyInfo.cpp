@@ -9,9 +9,9 @@ using namespace System::Security::Permissions;
 [assembly:AssemblyTitleAttribute(L"CLRInteropLib")];
 [assembly:AssemblyDescriptionAttribute(L"")];
 [assembly:AssemblyConfigurationAttribute(L"")];
-[assembly:AssemblyCompanyAttribute(L"KLA Corp.")];
+[assembly:AssemblyCompanyAttribute(L"Corp.")];
 [assembly:AssemblyProductAttribute(L"CLRInteropLib")];
-[assembly:AssemblyCopyrightAttribute(L"Copyright (c) KLA Corp. 2022")];
+[assembly:AssemblyCopyrightAttribute(L"Copyright (c) Corp. 2022")];
 [assembly:AssemblyTrademarkAttribute(L"")];
 [assembly:AssemblyCultureAttribute(L"")];
 
